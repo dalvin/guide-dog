@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "466732748584",
+    "firebase_url": "https://guide-dog-d41a4.firebaseio.com",
+    "project_id": "guide-dog-d41a4",
+    "storage_bucket": "guide-dog-d41a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466732748584:android:a1a9d3f04ef11bed458a1d",
+        "android_client_info": {
+          "package_name": "com.dalvinlabs.guidedog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466732748584-ldb2kgjjunq5fhcm8uu1ri8imgj99dvm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dalvinlabs.guidedog",
+            "certificate_hash": "e1d2358a57eea268bf698d736d4621bc39517a52"
+          }
+        },
+        {
+          "client_id": "466732748584-d74ikg0cnlaf8fdldj0kjc5hai1n5q9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-PYUIcpxemEiKsMU99szkYnETEMB5BUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466732748584-d74ikg0cnlaf8fdldj0kjc5hai1n5q9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
